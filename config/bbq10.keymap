@@ -78,7 +78,7 @@
                  &mkp LCLK                                                                                       &kp TAB
     &kp LC(LS(TAB))             &kp LC(TAB)                             &mkp LCLK                           &kp LA(LEFT)                    &kp LG(D)
     &none       &none     &kp UP       &sys_reset &ext_power EP_TOG &none         &bt BT_SEL 0           &bt BT_SEL 1          &bt BT_SEL 2         &bt BT_SEL 3
-    &bl BL_DEC     &kp LEFT   &kp DOWN   &kp RIGHT      &kp BSLH          &kp AMPS      &kp LBRC         &kp RBRC        &kp CARET        &kp BSPC
+    &none     &kp LEFT   &kp DOWN   &kp RIGHT      &kp BSLH          &kp AMPS      &kp LBRC         &kp RBRC        &kp CARET        &kp BSPC
     &kp LALT    &none      &none       &none      &bl BL_DEC        &bl BL_TOG    &bl BL_INC       &none           &bootloader      &kp ENTER
     &kp LSHFT               &kp LEFT_WIN                                 &kp LC(W)              &to SYM                          &to DEFAULT
             >;
